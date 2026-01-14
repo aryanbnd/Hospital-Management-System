@@ -7,9 +7,8 @@ from typing import List, Union
 import pandas as pd
 from datetime import datetime
 import logging
-import base64  # For handling image uploads as base64 to store in JSON
+import base64  
 
-# Set up logging for professional error tracking and debugging
 logging.basicConfig(filename='hospital_management.log', level=logging.INFO,
                     format='%(asctime)s - %(levelname)s - %(message)s')
 
@@ -920,4 +919,5 @@ if __name__ == "__main__":
         print("="*70 + "\n")
 
     app = HospitalManagementSystem()
+
     app.mainloop()
