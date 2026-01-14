@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1001,
+        "name": "Dr. Admin",
+        "specialization": "Hospital Administrator",
+        "password": "admin123"
+    },
+    {
+        "id": 1002,
+        "name": "Aryan",
+        "specialization": "OPD",
+        "password": "admin1"
+    }
+]

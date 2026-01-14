@@ -1,0 +1,16 @@
+2026-01-14 09:40:39,277 - INFO - Data loaded successfully.
+2026-01-14 09:40:39,421 - INFO - Data loaded successfully.
+2026-01-14 09:40:50,499 - INFO - User 1001 (Doctor) logged in.
+2026-01-14 09:41:26,247 - INFO - Data saved successfully.
+2026-01-14 09:41:26,247 - INFO - New patient 124 added
+2026-01-14 09:41:56,135 - INFO - Data saved successfully.
+2026-01-14 09:41:56,135 - INFO - New appointment 1 scheduled
+2026-01-14 09:42:20,289 - INFO - Patients exported to CSV
+2026-01-14 09:42:41,758 - INFO - Bills exported for patient 124
+2026-01-14 09:43:04,855 - INFO - User 124 (Patient) logged in.
+2026-01-14 09:47:53,851 - INFO - Data loaded successfully.
+2026-01-14 09:47:54,018 - INFO - Data loaded successfully.
+2026-01-14 09:48:01,894 - INFO - User 1001 (Doctor) logged in.
+2026-01-14 09:48:51,243 - INFO - Data saved successfully.
+2026-01-14 09:48:51,243 - INFO - New prescription 1 added for patient 124
+2026-01-14 09:49:12,577 - INFO - User 124 (Patient) logged in.
